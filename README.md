@@ -4,7 +4,7 @@ Ultra-simple Chrome extension to make content on blackboard fill all available s
 ## Installation
 The extension is installed manually.
 * Downlaod / clone this repo to your computer.
-* In chrome type the following into your address bar:
+* In chrome, type the following into your address bar:
 ```
 chrome://extensions/
 ```
